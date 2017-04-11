@@ -11,3 +11,6 @@ This extension uses javascript to fix very common(and annoying) spelling mistake
 * af gefnu tilefni -> að gefnu tilefni
 * frosna -> frjósa
 * nóg og -> nógu
+
+
+Available at [this link](https://chrome.google.com/webstore/detail/ekki%C3%BEaug/fmacmcgemkoelkaapehgfacpcifndfgn).
