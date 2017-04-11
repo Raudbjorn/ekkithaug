@@ -1,6 +1,8 @@
 # ekkiThaug
 This extension uses javascript to fix very common(and annoying) spelling mistakes in the Icelandic language.
 
+Available at [this link](https://chrome.google.com/webstore/detail/ekki%C3%BEaug/fmacmcgemkoelkaapehgfacpcifndfgn).
+
 ## Full list of corrections:
 * þaug -> þau
 * eitthver -> einhver
@@ -12,5 +14,4 @@ This extension uses javascript to fix very common(and annoying) spelling mistake
 * frosna -> frjósa
 * nóg og -> nógu
 
-
-Available at [this link](https://chrome.google.com/webstore/detail/ekki%C3%BEaug/fmacmcgemkoelkaapehgfacpcifndfgn).
+It also attempts to remove multiple consecutive question and exclamation marks.
